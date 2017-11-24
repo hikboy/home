@@ -6,6 +6,7 @@ set nu
 
 colorscheme morning
 
+set guifont=Consolas:h12:cANSI:qDRAFT
 
 set t_C0=256
 "set background=dark
