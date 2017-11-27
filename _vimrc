@@ -12,7 +12,7 @@ set t_C0=256
 "set background=dark
 "colorscheme primary
 
-"so $HOME/abbreviations.vim
+so $HOME/abbreviations.vim
 
 set shiftwidth=4 softtabstop=4 expandtab
 
@@ -24,7 +24,7 @@ map <C-s> <esc>:w<cr>
 map ,e :e $HOME/_vimrc<cr>
 
 map <C-F5> :so $HOME/_vimrc<cr>
-"map <F5> :so %<cr>
+map <F5> :so %<cr>
 
 "below two mapping is no use sometime
 "nmap <buffer> <CR> <C-]>
