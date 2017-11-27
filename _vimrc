@@ -1,3 +1,5 @@
+"This is hikboy's vimrc file, everyone else can use it freely!
+"Have a good time!
 execute pathogen#infect()
 syntax on
 filetype plugin indent on
